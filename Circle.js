@@ -9,7 +9,7 @@ class Circle{
             bodyA: bodyA,
             bodyB:body2,
             stiffness:0.4,
-            length:100
+            length:300
     //        pointB:{x:this.offsetX,y:this.offsetY}
         
         
